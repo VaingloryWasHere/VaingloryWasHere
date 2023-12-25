@@ -2,7 +2,7 @@
 
 I'm a student from India. I like to write stories and program stuff.
 
-- 🔭 I’m currently working on: Myourmiles, a [discord] bot designed for the [discord] server DCS Stories. The bot was inspired heavily by PokeTwo. Myourmiles is an rpg bot featuring characters from the anime "That time I got reincarnated as a slime."
+- 🔭 I’m currently working on: Union, a discord science fantasy rpg bot!
 
 - 📫 How to reach me: My discord username is "Vainglory#4890" Send me a DM if you wanna talk!
 
